@@ -7,8 +7,9 @@ def line(deli)
 else
   current_line = "The line is currently:"
   deli.each.with.index(1) do |person, i|
- '#{katz_deli}'
+current_line << " #{i}. #{person}"
 end
+current_line
 end
 
 def take_a_number (katz_deli, name)
