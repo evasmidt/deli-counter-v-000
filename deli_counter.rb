@@ -5,7 +5,7 @@ def line (other_deli)
 
   return "The line is currently empty."
 
-"The line is currently: '#{katz_deli}'"
+else "The line is currently: '#{katz_deli}'"
 end
 end
 
