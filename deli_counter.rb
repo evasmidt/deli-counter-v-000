@@ -6,6 +6,6 @@ def line
 end
 end
 
-def take_a_number (katz_deli, )
+def take_a_number (katz_deli)
   #index +1
 end
