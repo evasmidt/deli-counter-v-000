@@ -1,9 +1,8 @@
 # Write your code here.
 #katz_deli = []
-def line (deli)
+def line(deli)
   if deli.empty?
-
-  return "The line is currently empty."
+    puts "The line is currently empty."
 
 else
   "The line is currently: '#{katz_deli}'"
