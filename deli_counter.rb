@@ -17,3 +17,8 @@ def take_a_number (deli, name)
   #index +1
 #'#{name}'
 end
+
+def now_serving
+  puts "Now serving number #{deli.length} #{name}"
+  if deli.empty? puts "There is nobody waiting to be served!"
+end
