@@ -14,5 +14,5 @@ end
 def take_a_number (deli, name)
   deli << name
   #index +1
-'#{name}'
+#'#{name}'
 end
