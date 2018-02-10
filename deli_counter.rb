@@ -11,7 +11,7 @@ current_line << " #{i}. #{person}"
 end
 current_line
 end
-
+end 
 def take_a_number (katz_deli, name)
   #index +1
 '#{name}'
